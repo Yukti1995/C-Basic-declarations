@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	printf("Name is Mehak \n");
+	printf("Age is 18 \n");
+	printf("I live in woodbridge \n");
+}
